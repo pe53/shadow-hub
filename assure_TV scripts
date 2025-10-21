@@ -1,0 +1,35 @@
+1. Grow a Garden Scripts - Auto Pick up, Auto Plant Fruit:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BrySadW/GrowAGarden/refs/heads/main/GrowAGarden.lua"))()
+
+2. The Best Script Grow a Garden - Auto Plant, Auto Sell, Auto Buy, Auto Replace:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ameicaa1/Grow-a-Garden/main/Grow_A_Garden.lua"))()
+
+3. Grow a Garden Script SpaceHub - Fast Auto Farm:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ago106/SpaceHub/refs/heads/main/Multi'))()
+
+4. Script Grow A Garden - Auto Farm, Auto Sell, Auto Buy, AntiAFK:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NittarPP/PhotonScript/refs/heads/main/Loading/Loading.lua"))()
+
+5. Grow a Garden Script NEW - Auto Farm, Auto Collect:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doggoman230/growagarden/refs/heads/main/script"))()
+
+6. Grow a Garden Script No Key - Auto Plant, Auto Harvest, Auto Sell:
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/depthso/Grow-a-Garden/refs/heads/main/autofarm.lua')))()
+
+7. Grow a Garden Script Mobile & PC - Auto Sell, Auto Collect, Inf Seeds:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();
+
+8. Grow a Garden Script - Auto Plant, Auto Collect All, Auto Sell:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hakariqScripts/Roslina/refs/heads/main/Ro"))()
+
+9. Script Grow a Garden - Infinite Seeds, Sell All, Auto Buy, Angry Plant:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/GrowaGarden", true))()
